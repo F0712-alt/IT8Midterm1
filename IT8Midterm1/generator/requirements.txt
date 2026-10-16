@@ -1,0 +1,5 @@
+faker
+
+pip install faker mysql-connector-python
+
+mysql-connector-python
